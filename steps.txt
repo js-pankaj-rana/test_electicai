@@ -1,0 +1,4 @@
+- create and publish one package in npm for components with storybook for a simple pie chart.
+- create one repository and import ur component from that package that u published and use it with dummy json data.
+- react, typescript : no any should be given, proper eslinting config, proper prettier config, pre-commit hooks (ex: husky)
+
